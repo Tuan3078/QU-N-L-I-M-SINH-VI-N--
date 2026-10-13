@@ -97,4 +97,4 @@ st.pyplot(fig)
 
 # Thông tin người thực hiện ở cuối trang (chữ nhỏ)
 st.write("---")
-st.markdown("<p style='font-size: 12px; color: gray;'>Họ và tên: [Điền tên của bạn] | MSSV: [Điền MSSV của bạn]</p>", unsafe_allow_html=True)
+st.markdown("<p style='font-size: 12px; color: gray;'>Họ và tên: [Lê Thanh Tuấn] | MSSV: [060208011229]</p>", unsafe_allow_html=True)
